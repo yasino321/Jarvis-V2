@@ -49,7 +49,7 @@ jarvis/
 ### 1. Repository klonen
 
 ```bash
-git clone https://github.com/DEIN-USERNAME/jarvis.git
+git clone https://github.com/yasino321/Jarvis-V2
 cd jarvis
 ```
 
@@ -64,6 +64,7 @@ Das Setup-Skript prüft Python, installiert alle Pakete und erstellt die `_env`-
 > **Alternativ manuell:**
 > ```bash
 > pip install -r requirements.txt
+> (Alternativ: pip install -r requirements.txt --break-system-packages)
 > cp _env.exemple _env   # Windows: copy _env.exemple _env
 > ```
 
