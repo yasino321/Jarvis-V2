@@ -50,7 +50,7 @@ jarvis/
 
 ```bash
 git clone https://github.com/yasino321/Jarvis-V2
-cd jarvis
+cd Jarvis-V2
 ```
 
 ### 2. Automatisches Setup
